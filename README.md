@@ -15,9 +15,11 @@ _Create two deployment workflows using GitHub Actions and Microsoft Azure._
 
 <!--
   <<< Author notes: Step 6 >>>
+
   Start this step by acknowledging the previous step.
   Define terms and link to docs.github.com.
 -->
+
 
 ## Step 6: Production deployment
 
@@ -36,6 +38,7 @@ Throughout the course you've spun up resources that, if left unattended, could i
 Now that you've applied the proper label, let's wait for the GitHub Actions workflow to complete. When it's finished, you can confirm that your environment has been destroyed by visiting your app's URL, or by logging into the Azure portal to see it is not running.
 
 2. Wait about 20 seconds then refresh this page (the one you're following instructions from). [GitHub Actions](https://docs.github.com/en/actions) will automatically update to the next step.
+
 
 <footer>
 
